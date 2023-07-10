@@ -17,7 +17,7 @@ git clone https://github.com/ramonbsd/check_vt.git
 
 
 2. Instale as dependências necessárias usando o gerenciador de pacotes `pip`:
-pip install -r requirements.txt
+pip install -r requirements.txt ( Nenhuma até o momento desde update)
 
 
 
